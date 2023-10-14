@@ -1,8 +1,7 @@
 import React from 'react'
-
 const Hero = () => {
   return (
-    <div>Hero</div>
+    <section className='h-[600px] bg-hero bg-no-repeat bg-center py-24'>Hero</section>
   )
 }
 
