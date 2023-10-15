@@ -8,7 +8,7 @@ import Wishlist from "./pages/Wishlist";
 function App() {
   return (
     <>
-      <div className="overflow-scroll">
+      <div className="">
         <Router>
           <Header />
           <Routes>
